@@ -6,6 +6,7 @@ from django.urls import include, path,re_path
 from django.views.generic import TemplateView
 
 from rest_framework_simplejwt.views import TokenRefreshView
+# justcomments
 
 from trips.views import SignUpView, LogInView
 
