@@ -3,7 +3,7 @@
     "name": "Locomo -Taxi Halting App",
     "icons": [
         {
-            "src": "/images/logo.png",
+            "src": "/images/background.png",
             "type": "image/png",
             "sizes": "1024x1024"
         }
